@@ -9,25 +9,25 @@
     android:gravity="center"
     >
 
-    <!--<advance.android.samplelibrary.custom_view.ImageViewLib-->
-        <!--android:id="@+id/img"-->
-        <!--android:layout_width="200dp"-->
-        <!--android:layout_height="200dp" />-->
-    <!--<advance.android.samplelibrary.custom_view.TextViewLib-->
-        <!--android:id="@+id/txt"-->
-        <!--android:text="تست فونت در لایبرری"-->
-        <!--android:layout_width="300dp"-->
-        <!--android:layout_height="wrap_content" />-->
+    <advance.android.samplelibrary.custom_view.ImageViewLib
+        android:id="@+id/img"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+    <advance.android.samplelibrary.custom_view.TextViewLib
+        android:id="@+id/txt"
+        android:text="تست فونت در لایبرری"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content" />
 
-   <!--<advance.android.samplelibrary.custom_view.EditTextLib-->
-       <!--android:id="@+id/edt"-->
-       <!--android:layout_width="300dp"-->
-       <!--android:layout_height="wrap_content" />-->
+   <advance.android.samplelibrary.custom_view.EditTextLib
+       android:id="@+id/edt"
+       android:layout_width="300dp"
+       android:layout_height="wrap_content" />
 
-    <!--<advance.android.samplelibrary.custom_view.ButtonLib-->
-        <!--android:id="@+id/btn"-->
-        <!--android:text="تایید"-->
-        <!--android:layout_width="200dp"-->
-        <!--android:layout_height="wrap_content" />-->
+    <advance.android.samplelibrary.custom_view.ButtonLib
+        android:id="@+id/btn"
+        android:text="تایید"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
