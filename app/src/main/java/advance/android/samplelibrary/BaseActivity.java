@@ -14,11 +14,11 @@ public class BaseActivity extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
 
-        setLibVariables();
+//        setLibVariables();
     }
 
-    void setLibVariables() {
-        LibConstants.appFontName = Constants.appFontName;
-
-    }
+//    void setLibVariables() {
+//        LibConstants.appFontName = Constants.appFontName;
+//
+//    }
 }
