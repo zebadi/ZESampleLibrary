@@ -20,15 +20,15 @@ public class MainActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-bind();
+//bind();
     }
 
-    void bind(){
-
-        img= findViewById(R.id.img);
-        img.load("https://findicons.com/files/icons/1035/human_o2/128/image_x_xbitmap.png");
-
-
-
-    }
+//    void bind(){
+//
+//        img= findViewById(R.id.img);
+//        img.load("https://findicons.com/files/icons/1035/human_o2/128/image_x_xbitmap.png");
+//
+//
+//
+//    }
 }
