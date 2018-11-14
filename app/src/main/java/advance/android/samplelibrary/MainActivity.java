@@ -10,7 +10,7 @@ import advance.android.samplelibrary.custom_view.TextViewLib;
 
 public class MainActivity extends BaseActivity {
 
-    ImageViewLib img;
+   // ImageViewLib img;
   //  ButtonLib btn;
    // TextViewLib txt;
 //    EditTextLib edt;
